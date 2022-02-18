@@ -1,0 +1,3 @@
+#!/usr/bin/env bash 
+
+tmux neww -c ~/sites/joshs/vim-forever/server "node main.js" \; 

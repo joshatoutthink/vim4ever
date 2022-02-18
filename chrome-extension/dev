@@ -1,0 +1,5 @@
+#!/usr/bin/env bash 
+
+tmux neww -c ~/sites/joshs/vim-forever/chrome-extension "yarn start" \;
+
+
